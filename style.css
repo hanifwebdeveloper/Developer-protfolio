@@ -26,7 +26,7 @@ h2 {
 }
 
 .half-width img {
-    width: 80%;
+    width: 50%;
 }
 
 .link-button {
@@ -40,18 +40,18 @@ h2 {
 }
 
 .top-banner {
-    background-image: url(Developer-protfolio/banner (1).jpg);
+    background-image: url(images/romantic.jpg);
     background-repeat: no-repeat;
 }
 
 .dream-big {
-    background-image: url(images/banner\ \(2\).jpg);
+    background-image: url(images/red-blue.jpg);
     background-repeat: no-repeat;
     background-position: right;
 }
 
 .experience-area {
-    background-image: url(images/banner\ \(2\).jpg);
+    background-image: url(images/th02.jpg);
     background-repeat: no-repeat;
     background-position: left;
 }
